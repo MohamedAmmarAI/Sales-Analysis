@@ -9,7 +9,6 @@ This project is a comprehensive and interactive Power BI dashboard designed to p
 * **Trend Analysis:** Visualize sales and profit over time (years, quarters, months) and by different dimensions like region, category, and shipping method.
 * **Performance Tracking:** Pinpoint top-performing products, states, and analyze the effectiveness of different customer segments and shipping modes.
 * **Interactive Exploration:** Use dynamic filters and decomposition trees to drill down into data from various angles (Region, Category, Sub-Category, Ship Mode, Year).
-* **Robust Data Model:** Built on a clean data model linking sales orders, returns, and regional managers for holistic analysis.
 
 This dashboard empowers users to easily monitor KPIs, identify trends, and uncover critical insights to optimize sales strategies and boost profitability.
 
@@ -20,7 +19,7 @@ This dashboard empowers users to easily monitor KPIs, identify trends, and uncov
 Here are some glimpses of the dashboards included in this project:
 
 #### Executive Summary
-![Executive Summary Dashboard](images/image_258870.png)
+![Uploading image.png…]()
 
 #### Profitability Analysis
 ![Profitability Analysis Dashboard](images/image_258b38.png)
@@ -34,8 +33,6 @@ Here are some glimpses of the dashboards included in this project:
 #### Comparative Analysis & Trends by Year
 ![Comparative Analysis & Trends by Year Dashboard](images/image_258ef7.png)
 
-#### Data Model
-![Data Model](images/image_258fd8.png)
 
 ---
 
