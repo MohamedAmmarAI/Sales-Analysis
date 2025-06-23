@@ -1,4 +1,4 @@
-cat <<EOF > README.md
+
 # 📊 Superstore Sales Dashboard
 
 ![Power BI](https://img.shields.io/badge/Tool-PowerBI-yellow?logo=powerbi)
@@ -10,18 +10,23 @@ This project is an interactive dashboard built in Power BI to analyze Superstore
 
 ## 🖥️ Dashboard Previews
 
-### 🔹 Overview KPIs and Trends
-![image](https://github.com/user-attachments/assets/07c35dd8-93d5-4ae0-86d2-5246609ff757)
+### 🔹 Sales Overview
+![image](https://github.com/user-attachments/assets/d545d001-740e-450f-90d7-894d56cfb728)
 
+### 🔹 Profit
+![image](https://github.com/user-attachments/assets/9a777861-fee1-4884-b3ad-15c85ff8c92c)
 
-### 🔹 Regional, Segment, and Ship Mode Breakdown
-![Breakdown](dashboard_screenshots/breakdown.png)
+### 🔹 Comprehensive Business Performance
+![image](https://github.com/user-attachments/assets/517a1542-8769-45b8-a887-49f4eadfdf99)
 
-### 🔹 Profit by State, Sub-Category, and Quarters
-![Profit](dashboard_screenshots/profit_analysis.png)
+### 🔹 Sales Breakdown
+![image](https://github.com/user-attachments/assets/804e314e-49cb-4c1f-ac06-735722186337)
 
-### 🔹 Quantity vs Profit and Product Insights
-![Quantity vs Profit](dashboard_screenshots/quantity_profit.png)
+### 🔹 Profit Breakdown
+![image](https://github.com/user-attachments/assets/f35ee4af-92d8-4d10-983d-0a7397547f3e)
+
+### 🔹 Sales Analysis
+![image](https://github.com/user-attachments/assets/9e90551a-7cc6-4626-ba87-1b161f8c5364)
 
 ---
 
@@ -55,6 +60,4 @@ This project is an interactive dashboard built in Power BI to analyze Superstore
 - Interactive Slicers & Filters
 
 ---
-
-## 🗂️ Folder Structure
 
