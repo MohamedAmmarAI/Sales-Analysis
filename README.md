@@ -11,7 +11,8 @@ This project is an interactive dashboard built in Power BI to analyze Superstore
 ## 🖥️ Dashboard Previews
 
 ### 🔹 Overview KPIs and Trends
-![Overview](dashboard_screenshots/overview.png)
+![image](https://github.com/user-attachments/assets/07c35dd8-93d5-4ae0-86d2-5246609ff757)
+
 
 ### 🔹 Regional, Segment, and Ship Mode Breakdown
 ![Breakdown](dashboard_screenshots/breakdown.png)
