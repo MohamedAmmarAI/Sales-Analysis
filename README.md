@@ -17,7 +17,7 @@ This project is an interactive dashboard built in Power BI to analyze Superstore
 ![image](https://github.com/user-attachments/assets/9a777861-fee1-4884-b3ad-15c85ff8c92c)
 
 ### 🔹 Comprehensive Business Performance
-![image](https://github.com/user-attachments/assets/517a1542-8769-45b8-a887-49f4eadfdf99)
+![image](https://github.com/user-attachments/assets/760d2a2a-ed3a-447e-8d2a-bf7b48dc6846)
 
 ### 🔹 Sales Breakdown
 ![image](https://github.com/user-attachments/assets/804e314e-49cb-4c1f-ac06-735722186337)
