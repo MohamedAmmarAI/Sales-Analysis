@@ -1,47 +1,59 @@
-# Sales-Analysis
+cat <<EOF > README.md
+# 📊 Superstore Sales Dashboard
 
-This project is a comprehensive and interactive Power BI dashboard designed to provide deep insights into sales performance, customer behavior, and profitability. It transforms raw sales data into actionable intelligence, helping businesses make smarter, data-driven decisions.
+![Power BI](https://img.shields.io/badge/Tool-PowerBI-yellow?logo=powerbi)
+![Status](https://img.shields.io/badge/Project-Complete-brightgreen)
 
-### Key Features:
-
-* **Executive Overview:** Quickly see total sales, profit, quantity, customers, and orders.
-* **Profitability Deep Dive:** Understand profit by products, states, sub-categories, and identify areas of loss (e.g., specific cities, negative profit categories).
-* **Trend Analysis:** Visualize sales and profit over time (years, quarters, months) and by different dimensions like region, category, and shipping method.
-* **Performance Tracking:** Pinpoint top-performing products, states, and analyze the effectiveness of different customer segments and shipping modes.
-* **Interactive Exploration:** Use dynamic filters and decomposition trees to drill down into data from various angles (Region, Category, Sub-Category, Ship Mode, Year).
-
-This dashboard empowers users to easily monitor KPIs, identify trends, and uncover critical insights to optimize sales strategies and boost profitability.
+This project is an interactive dashboard built in Power BI to analyze Superstore sales data. It provides deep insights into sales performance, customer behavior, shipping trends, and product profitability.
 
 ---
 
-### Dashboard Snapshots:
+## 🖥️ Dashboard Previews
 
-Here are some glimpses of the dashboards included in this project:
+### 🔹 Overview KPIs and Trends
+![Overview](dashboard_screenshots/overview.png)
 
-#### Executive Summary
-![Uploading image.png…]()
+### 🔹 Regional, Segment, and Ship Mode Breakdown
+![Breakdown](dashboard_screenshots/breakdown.png)
 
-#### Profitability Analysis
-![Profitability Analysis Dashboard](images/image_258b38.png)
+### 🔹 Profit by State, Sub-Category, and Quarters
+![Profit](dashboard_screenshots/profit_analysis.png)
 
-#### Detailed Performance & Trends
-![Detailed Performance & Trends Dashboard](images/image_258b7c.png)
-
-#### Sales Distribution & Hierarchical Analysis
-![Sales Distribution & Hierarchical Analysis Dashboard](images/image_258bd0.png)
-
-#### Comparative Analysis & Trends by Year
-![Comparative Analysis & Trends by Year Dashboard](images/image_258ef7.png)
-
+### 🔹 Quantity vs Profit and Product Insights
+![Quantity vs Profit](dashboard_screenshots/quantity_profit.png)
 
 ---
 
-### Technologies Used:
+## 🚀 Features
 
-* **Power BI Desktop:** For data modeling, report design, and visualization.
+- **Sales Overview**: KPIs (Sales, Profit, Quantity, Customers, Orders)
+- **Detailed Analysis**:
+  - Sales by Region, Segment, Ship Mode, Month
+  - Profit by Top/Bottom Cities and Sub-Categories
+  - Tree Map Drill-through (Region → Category → Sub-Category → Ship Mode)
+- **Interactive Filters**: Year, Region, Category, Segment, Ship Mode
+- **Custom Visuals**: Bar charts, Bubble plots, Scatter plots, Line charts
 
-### How to Use:
+---
 
-1.  Clone this repository to your local machine.
-2.  Open the `.pbix` file (`Sales_Profitability_Dashboard.pbix`) using Power BI Desktop.
-3.  Explore the interactive dashboards and utilize the various filters (Year, Category, Region, Segment, Ship Mode) to gain specific insights.
+## 🧠 Key Insights
+
+- West region drives highest sales; Q4 is most profitable
+- Consumer segment dominates performance
+- Tables are unprofitable in multiple regions
+- California and New York yield highest profit
+- Copiers and Phones are top-performing sub-categories
+
+---
+
+## 🛠 Built With
+
+- **Power BI Desktop**
+- Power Query (ETL)
+- DAX Calculations
+- Interactive Slicers & Filters
+
+---
+
+## 🗂️ Folder Structure
+
